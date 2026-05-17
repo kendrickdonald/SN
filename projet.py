@@ -328,3 +328,4 @@ with col2:
     st.write(f"- **Kilométrage:** {df['Mileage'].min():.1f} - {df['Mileage'].max():.1f} km/l")
     st.write(f"- **Puissance:** {df['Horsepower_kw'].min():.0f} - {df['Horsepower_kw'].max():.0f} kW")
 
+
